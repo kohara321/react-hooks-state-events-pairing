@@ -10,3 +10,11 @@ body {
 .App {
   text-align: center;
 }
+
+#like-btns {
+  margin-top: 2vh;
+}
+
+#comment-btn {
+  margin-top: 2vh;
+}
